@@ -1,0 +1,67 @@
+.hide {
+    display: none;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.clear {
+    clear: both;
+}
+#reset-container, h1 {
+    text-align: center;
+}
+
+body {
+    background-color: rgba(111, 245, 216, 0.418);
+    background-size: cover;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#teamone-shoot-button {
+    color: seashell;
+    border: pink solid 1px;
+    background-color: slateblue;
+
+}
+
+#teamtwo-shoot-button {
+    color: seashell;
+    border: pink solid 1px;
+    background-color: slateblue;
+
+}
+
+#reset-button {
+    color: seashell;
+    background-color: slateblue;
+    border: pink solid 1px;
+}
+
+.goals {
+    
+    background-color: rgb(241, 158, 172);
+    background-blend-mode: color-burn;
+    color: whitesmoke;
+    padding: 10px;
+}
+
+h2 {
+    color: navy;
+    margin: 40px;
+}
+
+h1 {
+    color: lightcoral;
+}
+
+#num_resets {
+    color: yellow;
+    border: solid grey 1px;
+    padding: 5px;
+    background-color: grey;
+
+}
